@@ -11,9 +11,11 @@ redirect_from:
 <h1>About</h1>
 ------
 
-저는 조선대학교 컴퓨터공학과 [스마트네트워킹 연구실](https://sites.google.com/view/smart-networking/member)에서 석사 과정에 진학 중이며, 차세대 무선통신과 심층 강화학습을 활용한 대규모 MIMO 시스템 최적화에 관심을 가지고 있습니다. 저의 주요 연구는 차세대 무선통신 시스템의 효율성 향상 및 무선 자원 문제 해결하기 위한 심층강화학습 기반의 자원 할당연구 입니다.
+저는 김동민입니다.
 
-연구실에서 저의 역할은 심층 강화학습, 대규모 MIMO, 소프트웨어 정의 라디오, 자원 할당 영역에 대한 연구 조교를 담당하고 있으며, 비공식적으로 IoT 및 ICT 시스템 개발 및 연구를 수행하고 있습니다. 대외적으로 나주에 위치한 세지중학교에서 기초 프로그래밍을 주제로 소프트웨어 개발 강사로 5개월 간 근무한 경험이 있습니다. 저의 동기부여는 음악, 디자인 그리고 저의 개발 및 연구 경험을 정리하고 공유할 수 있는 [기술 블로그](https://young-it-time.tistory.com/)와 [소프트웨어 정의 라디오 데모 채널](https://www.youtube.com/channel/UCZI9JfPn_Nk6HVkl2aAj4xA)을 운영하는 것입니다.
+<!-- 저는 조선대학교 컴퓨터공학과 [스마트네트워킹 연구실](https://sites.google.com/view/smart-networking/member)에서 석사 과정에 진학 중이며, 차세대 무선통신과 심층 강화학습을 활용한 대규모 MIMO 시스템 최적화에 관심을 가지고 있습니다. 저의 주요 연구는 차세대 무선통신 시스템의 효율성 향상 및 무선 자원 문제 해결하기 위한 심층강화학습 기반의 자원 할당연구 입니다.
+
+연구실에서 저의 역할은 심층 강화학습, 대규모 MIMO, 소프트웨어 정의 라디오, 자원 할당 영역에 대한 연구 조교를 담당하고 있으며, 비공식적으로 IoT 및 ICT 시스템 개발 및 연구를 수행하고 있습니다. 대외적으로 나주에 위치한 세지중학교에서 기초 프로그래밍을 주제로 소프트웨어 개발 강사로 5개월 간 근무한 경험이 있습니다. 저의 동기부여는 음악, 디자인 그리고 저의 개발 및 연구 경험을 정리하고 공유할 수 있는 [기술 블로그](https://young-it-time.tistory.com/)와 [소프트웨어 정의 라디오 데모 채널](https://www.youtube.com/channel/UCZI9JfPn_Nk6HVkl2aAj4xA)을 운영하는 것입니다. -->
 
 
 <!-- I am a computer science and engineering MS student at Chosun University's Department of [Smart Networking Lab](https://sites.google.com/view/smart-networking/member) specializing in next-generation wireless networks with a keen interest in using deep reinforcement learning to optimize massive MIMO systems. My research is focused on applying deep reinforcement learning techniques to wireless resource allocation problems.

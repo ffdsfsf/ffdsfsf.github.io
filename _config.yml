@@ -11,13 +11,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Youngwoo Oh"
+title                    : "Dongmin Kim"
 title_separator          : "-"
-name                     : &name "Youngwoo Oh"
-description              : &description "MS student at Chosun University"
-url                      : https://FIVEYOUNGWOO.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dongmin Kim"
+description              : &description "Chosun University"
+url                      : https://ffdsfsf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FIVEYOUNGWOO/FIVEYOUNGWOO.github.io"
+repository               : "ffdsfsf/ffdsfsf.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Youngwoo Oh"
+  name             : "Dongmin Kim"
   avatar           : "profile.png"
-  bio              : "MS student at Chosun University in Computer Engineering"
+  bio              : "Chosun University in Computer Engineering"
   location         : "Gwangju"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.co.kr/citations?user=1sIHm5AAAAAJ&hl=ko #"http://yourfullgooglescholarurl.com"
-  email            : "snlyoungwoo@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Youngwoo-Oh" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : #https://scholar.google.co.kr/citations?user=1sIHm5AAAAAJ&hl=ko #"http://yourfullgooglescholarurl.com"
+  email            : #"snlyoungwoo@gmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Youngwoo-Oh" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,14 +100,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FIVEYOUNGWOO"
+  github           : "ffdsfsf"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : https://orcid.org/my-orcid?orcid=0000-0001-6452-6333 #"http://orcid.org/yourorcidurl"
+  orcid            : # https://orcid.org/my-orcid?orcid=0000-0001-6452-6333 #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -117,7 +117,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "youngwoo Oh"
+  youtube          : # "youngwoo Oh"
   wikipedia        :
 
 
